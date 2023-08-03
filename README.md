@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fangdeyu76
+- 👀 I’m interested in Aspiring full-stack developer. Proficient in Java.
+- 🌱 Always seeking to improve user experiences with seamless design
